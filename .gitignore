@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+android/.gradle
+android/build/
